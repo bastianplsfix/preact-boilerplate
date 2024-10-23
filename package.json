@@ -1,0 +1,9 @@
+{
+  "name": "preact-boilerplate",
+  "version": "0.0.1",
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
+  }
+}
